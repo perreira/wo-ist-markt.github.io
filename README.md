@@ -43,6 +43,7 @@ A small visualization of the weekly markets in different cities. Available at: h
 |[Neu-Ulm][neu-ulm-wikipedia]|[City of Neu-Ulm][neu-ulm-markets]|
 |[Paderborn][paderborn-wikipedia]|[City of Paderborn][paderborn-markets]|
 |[Ulm][ulm-wikipedia]|[City of Ulm][ulm-markets]|
+|[Erlangen][erlangen-wikipedia]|[City of Erlangen][erlangen-markets]|
 
 
 ## Contributing
