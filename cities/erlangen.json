@@ -71,7 +71,7 @@
             "properties": {
                 "title": "Wochenmarkt Baiersdorf",
                 "location": "Rathausplatz",
-                "opening_hours": "Mi,Sa 08:00-14:00"
+                "opening_hours": "We,Sa 08:00-14:00"
             },
             "type": "Feature"
         },
