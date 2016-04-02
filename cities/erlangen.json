@@ -30,8 +30,36 @@
             },
             "type": "Feature"
         }
-       
- 
+       {
+            "geometry": {
+                "coordinates": [
+                    10.949764,
+                    49.594764 
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt am Rudeltplatz",
+                "location": "Rudeltplatz",
+                "opening_hours": "Fr 09:00-17:00"
+            },
+            "type": "Feature"
+        }
+        {
+            "geometry": {
+                "coordinates": [
+                    10.977945,
+                    49.597020
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Marktstand Naturlandhof Pilsberger",
+                "location": "Schallershoferstraße 24",
+                "opening_hours": "Th 09:00-17:00"
+            },
+            "type": "Feature"
+        }
     ],
     "metadata": {
         "data_source": {
@@ -43,7 +71,7 @@
                 11.003812,
                 49.597750
             ],
-            "zoom_level": 12
+            "zoom_level": 10
         }
     },
     "type": "FeatureCollection"
