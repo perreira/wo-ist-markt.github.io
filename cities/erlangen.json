@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    11.003812,
+                    49.597750 
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Erlanger Wochenmarkt",
+                "location": "Schlossplatz",
+                "opening_hours": "We 06:00-13:00;Sa 06:00-13:00"
+            },
+            "type": "Feature"
+        },
+       
+ 
+    ],
+    "metadata": {
+        "data_source": {
+            "title": "Daten von der Stadt Erlangen",
+            "url": "http://www.erlangen.de"
+        },
+        "map_initialization": {
+            "coordinates": [
+                11.003812,
+                49.597750
+            ],
+            "zoom_level": 12
+        }
+    },
+    "type": "FeatureCollection"
+}
