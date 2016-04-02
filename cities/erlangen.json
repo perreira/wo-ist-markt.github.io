@@ -10,8 +10,23 @@
             },
             "properties": {
                 "title": "Erlanger Wochenmarkt",
-                "location": "Schlossplatz",
+                "location": "Marktplatz",
                 "opening_hours": "Mo-Sa 08:00-15:00"
+            },
+            "type": "Feature"
+        },
+         {
+            "geometry": {
+                "coordinates": [
+                    11.006914,
+                    49.591031, 
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "title": "Wochenmarkt am Rathausplatz",
+                "location": "Rathausplatz",
+                "opening_hours": "Fr 09:00-14:00"
             },
             "type": "Feature"
         }
