@@ -11,7 +11,7 @@
             "properties": {
                 "title": "Erlanger Wochenmarkt",
                 "location": "Schlossplatz",
-                "opening_hours": "We 06:00-13:00;Sa 06:00-13:00"
+                "opening_hours": "Mo-Sa 08:00-15:00"
             },
             "type": "Feature"
         }
